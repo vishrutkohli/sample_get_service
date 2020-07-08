@@ -1,4 +1,4 @@
-# sample_alerts to be changed
+# HEADINGS (to be changed)
 
 ## steps to run 
 
